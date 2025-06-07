@@ -41,7 +41,6 @@ Dự án này tập trung vào việc phân tích và dự báo doanh thu hàng 
 ## 🧠 Các mô hình sử dụng
 
 ### Mô hình truyền thống:
-- Linear Regression
 - Random Forest
 - XGBoost
 
